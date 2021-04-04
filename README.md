@@ -1,4 +1,4 @@
-# cue-crash-course
+# vue-crash-course
 
 ## Project setup
 ```
